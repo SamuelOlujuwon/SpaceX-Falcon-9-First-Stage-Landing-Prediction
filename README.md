@@ -32,7 +32,7 @@ Write and execute SQL queries to select and sort data.
 
 Visualize the data and extract meaningful patterns to guide the modeling process.
 
-## Interactive Visual Analytics and Dashboards.
+## Interactive Visualizations.
 
 Build an interactive map to analyze the launch site proximity with Folium and build a dashboard to analyze launch records interactively with Plotly Dash.
 
