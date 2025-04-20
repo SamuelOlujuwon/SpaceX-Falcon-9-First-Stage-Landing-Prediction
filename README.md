@@ -26,7 +26,7 @@ Convert the data into a dataframe and then do some data wrangling.
 
 Create scatter plots and bar charts, using Python to analyze data in a Pandas dataframe.
 
-Write Python code to conduct Exploratory Aata Analysis by manipulating data in a Pandas dataframe.
+Write Python code to conduct Exploratory Data Analysis by manipulating data in a Pandas dataframe.
 
 Write and execute SQL queries to select and sort data.
 
